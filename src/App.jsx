@@ -170,7 +170,7 @@ const experiences = [
             className="text-2xl font-bold cursor-pointer"
             onClick={() => scrollToSection('home')}
           >
-            Rk
+            AN
           </motion.div>
           <div className="flex gap-6">
             {[
