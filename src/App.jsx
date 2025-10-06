@@ -74,7 +74,7 @@ const experiences = [
     period: 'June 2024 - August 2024',
     role: 'Web Development Intern',
     company: 'Prosenix',
-    description: 'Worked as a web development intern for 3 months, contributing to frontend and backend development tasks using React.js, Node.js, and Express.js. Assisted in building scalable web applications and learning agile development practices.',
+    description: 'Worked as a web development intern for 3 months, contributing to frontend and backend development tasks using React.js, Node.js, and Express.js. Assisted in building scalable web applications using RESTFUL APIs and learning agile development practices.',
     skills: ['React.js', 'Node.js', 'Express.js', 'Web Development', 'Internship']
   }
 ];
